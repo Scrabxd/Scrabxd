@@ -2,5 +2,6 @@
 
 ## I'm a backend developer who is currently specialized on NodeJS and learning new languages.
 
-![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgresql,mysql,mongodb,docker,golang&theme=dark)
+![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,postgresql,mysql,mongodb,docker,golang,redis&theme=dark)
+
 
